@@ -36,4 +36,4 @@ I'm an IT Specialist in the public sector, focused on building efficient softwar
 
 ---
 
-_#Building presence, creating impact.#_
+_Building presence, creating impact._
